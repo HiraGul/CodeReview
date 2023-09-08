@@ -1,0 +1,49 @@
+<svg id="Language_Icon" data-name="Language Icon" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.05" height="28.323" viewBox="0 0 32.05 28.323">
+  <defs>
+    <filter id="Rectangle_284" x="-0.5" y="-1" width="33.05" height="29.823" filterUnits="userSpaceOnUse">
+      <feOffset dy="-0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-color="#e1e1e1"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Rectangle_284)">
+        <rect id="Rectangle_284-2" data-name="Rectangle 284" width="32.05" height="28.323" fill="#ecf7ff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      </g>
+    </clipPath>
+    <filter id="Path_163" x="-0.5" y="-1" width="19.474" height="19.974" filterUnits="userSpaceOnUse">
+      <feOffset dy="-0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-2"/>
+      <feFlood flood-color="#e1e1e1"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_285" data-name="Rectangle 285" width="32.05" height="28.323" fill="none"/>
+    </clipPath>
+    <filter id="Path_164" x="13.576" y="9.349" width="18.474" height="18.974" filterUnits="userSpaceOnUse">
+      <feOffset dy="-0.5" input="SourceAlpha"/>
+      <feGaussianBlur result="blur-3"/>
+      <feFlood flood-color="#e1e1e1"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_418" data-name="Group 418">
+    <g id="Group_417" data-name="Group 417" opacity="0.999" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_163)">
+        <path id="Path_163-2" data-name="Path 163" d="M13.234,11.415a1.95,1.95,0,0,1,1.95-1.95h3.29V1.95A1.95,1.95,0,0,0,16.524,0H1.95A1.95,1.95,0,0,0,0,1.95V16.524a1.95,1.95,0,0,0,1.95,1.95H13.234Z" transform="translate(0 0)" fill="#ecf7ff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+  <text id="A" transform="translate(4.305 11.057)" fill="#013861" font-size="10" font-family="OpenSans, Open Sans"><tspan x="0" y="0">A</tspan></text>
+  <g id="Group_420" data-name="Group 420">
+    <g id="Group_419" data-name="Group 419" clip-path="url(#clip-path-2)">
+      <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Path_164)">
+        <path id="Path_164-2" data-name="Path 164" d="M52.239,44.384H37.665a1.95,1.95,0,0,1-1.95-1.95V27.86a1.95,1.95,0,0,1,1.95-1.95H52.239a1.95,1.95,0,0,1,1.95,1.95V42.434a1.95,1.95,0,0,1-1.95,1.95" transform="translate(-22.14 -16.06)" fill="#ecf7ff" opacity="0.999"/>
+      </g>
+      <path id="Path_165" data-name="Path 165" d="M50.55,38.157c-.884-1.343-1.246-2.629.094-3.791,1.313-1.139,2.615-.758,3.9-.127q.012.265.024.528a4.576,4.576,0,0,0-1.226.115,14.092,14.092,0,0,0-1.645.857,9.218,9.218,0,0,0,1.637.955,5.936,5.936,0,0,0,1.692.031l-.238,1.667c-.255.156-.381.3-.462.274-1.34-.365-2.653-.406-3.076,1.216-.461,1.767.969,2.238,2.245,2.688.622.22,1.268.373,2,.584a4.505,4.505,0,0,1-6.021-.1c-1.194-1.26-.891-2.789,1.075-4.9" transform="translate(-30.232 -20.85)" fill="#013861"/>
+    </g>
+  </g>
+</svg>
